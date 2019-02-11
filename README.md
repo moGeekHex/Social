@@ -1,2 +1,3 @@
 # Social Project React Native
-Project Social media by React native
+
+A small project based on firebase and React-Native
